@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 4: Log File Analyzer
-# Author: Dhyey
+# Author: Rachit Sharma
 
 LOGFILE=$1
 KEYWORD=${2:-"error"}  # Default = error

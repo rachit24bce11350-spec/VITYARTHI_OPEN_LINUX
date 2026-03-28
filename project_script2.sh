@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 2: FOSS Package Inspector
-# Author: Dhyey
+# Author: Rachit Sharma
 
 PACKAGE="vlc"
 
